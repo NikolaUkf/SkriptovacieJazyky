@@ -1,0 +1,2 @@
+# SkriptovacieJazyky
+Responzivna webova stranka
