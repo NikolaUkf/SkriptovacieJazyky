@@ -1,0 +1,25 @@
+Airbnb Clone Structure:
+├── Public Pages (Done ✅)
+│   ├── Homepage (index.php) - List properties
+│   ├── Property Details (property-details.php) - With booking
+│   ├── Reviews (reviews.php) - User reviews
+│   └── Contact (contact.php)
+│
+├── Admin Panel (Partially Done ⚠️)
+│   ├── Login (admin_login.php) - Fixed version needed
+│   ├── Dashboard (adminpage.php) - Shows stats
+│   ├── Properties CRUD (MISSING)
+│   │   ├── List all properties
+│   │   ├── Add new property
+│   │   ├── Edit property
+│   │   └── Delete property
+│   ├── Reservations (DONE ✅)
+│   ├── Reviews Management (Partial)
+│   └── Logout (logout.php)
+│
+└── Database (Done ✅)
+    ├── properties
+    ├── reservations
+    ├── reviews
+    ├── adminlogin
+    └── contact_messages
